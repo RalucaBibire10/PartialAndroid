@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Partial</string>
+    <string name="dimensiune">Dimensiune:</string>
+    <string name="insert_number">Insert number</string>
+    <string name="din">Din:</string>
+    <string name="in">In:</string>
+    <string name="converteste">Converteste</string>
 </resources>
